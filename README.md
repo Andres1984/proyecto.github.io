@@ -8,3 +8,6 @@
 Ustedes pueden encontrar opciones 
 
 ### seccion
+
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
